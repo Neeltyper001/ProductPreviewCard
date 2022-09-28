@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://productpreviewcard001.netlify.app/)
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [The project's live site](https://productpreviewcard001.netlify.app/)
 
 ## My process
 
