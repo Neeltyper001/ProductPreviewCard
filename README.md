@@ -19,7 +19,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 ### Screenshot
-(./TheDesktopView.png)
+/TheDesktopView.png
 
 ### The challenge
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [Solution to this ](https://www.frontendmentor.io/solutions/productpreviewcard-using-html-and-css-KJelM0wPQX)
 - Live Site URL: [The project's live site](https://productpreviewcard001.netlify.app/)
 
 ## My process
